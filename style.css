@@ -1,0 +1,57 @@
+body
+{
+    background: linear-gradient(lightblue,lightpink,rgb(206, 156, 206));
+    font-family: 'Cedarville Cursive', cursive;
+    text-align: center;
+    font-size: large;
+}
+
+.header_div
+{
+    background: white;
+    color: black;
+}
+
+.header_div p {
+    font-family: cursive;
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 25px;
+    background-color:peachpuff;
+    line-height: 3;
+    text-align: center;
+    text-shadow:5px 5px 5px gray ;
+    font-weight: 700px;;
+}
+h2{
+    font-size: 60px;
+    text-shadow:5px 5px 5px gray ;
+    font-weight:medium;
+}
+h3,h4{
+    font-size: 25px;
+    text-shadow:5px 5px 5px gray ;
+    font-weight: bolder;
+}
+.btn
+{
+    height: 50px;
+    box-shadow: 5px 5px 5px gray;
+}
